@@ -1,3 +1,4 @@
+# implements TEA encryption / decryption
 #! /usr/bin/env python3
 
 from operator import xor

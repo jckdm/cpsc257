@@ -1,3 +1,5 @@
+# implement theoretical iris scan comparison
+
 def compare(x, y):
     c = 0
     for i in range(len(x)):

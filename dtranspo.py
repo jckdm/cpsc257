@@ -1,4 +1,4 @@
-## problem 5
+# implements a double transposition cipher
 
 import numpy
 from itertools import permutations
